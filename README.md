@@ -16,7 +16,7 @@ Note that there's no need to make a group each time you want to download a video
 
 ## How to Upload
 This program uses Telegram-Upload. Check out its Documentation for more info and configuration.
-NOTE: It's recommended to use version 0.4.0 as shown below, since there were some problems with running the latest version (0.5.0).
+NOTE: It's recommended to use version 0.4.0 as shown below, since there were some issues running the latest version (0.5.0).
 
 1. After installing Telgram bot, run the cell to upload the video
 2. Enter api_code and api_hash. But wait, what are they?

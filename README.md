@@ -1,9 +1,9 @@
 # Skypedl
 A Selenium-based bot that sign-ins in your skype account and download a video, then upload it to your telegram Saved Messages
 
-#How to use
+# How to use
 
-##How to Download
+## How to Download
 This bot is desired to work on google colabs, in order to reduce internet traffic consumed by downloading and storing skype videos.
 1. First, create a group in skype and choose a unique name for it
 2. Every time you try to download a video/presentation, send the desired video to that unique folder.
@@ -14,7 +14,7 @@ This bot is desired to work on google colabs, in order to reduce internet traffi
 7. The video should get downloaded. If so, it'll be shown in the Folders of Google Colab.
 Note that there's no need to make a group each time you want to download a video. Just delete the previous one(if exists) and send the new one!
 
-#How to Upload
+## How to Upload
 This programm uses Telegram-Upload. Check out its Documentation for more info and configuration.
 NOTE: It's recommended to use version 0.4.0 as shown below, since there were some problems with running the latest version (0.5.0).
 
@@ -32,7 +32,7 @@ Note: If you faced an error, you might need to install Opera Mini and create an 
 
 
 
-#How to setup
+# How to setup
 1. First install the followings:
 ```sh
 !pip3 install -U selenium

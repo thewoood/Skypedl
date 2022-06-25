@@ -6,7 +6,7 @@ A Selenium-based bot that sign-ins in your skype account and download a video, t
 ## How to Download
 This bot is desired to work on google colabs, in order to reduce internet traffic consumed by downloading and storing skype videos.
 1. First, create a group in skype and choose a unique name for it
-2. Every time you try to download a video/presentation, send the desired video to that unique folder.
+2. Every time you try to download a video/presentation, send the desired video to that unique group.
 3. Note that at the moment of running the bot, One and only One video/ presentation should be in that unique group. Meaning, other messages should be deleted and only one message(which is your video) should exist in the chat.
 4. After setting up all the parts as shown below, run all the cells in google colab. 
 5. It'll ask for your Skype Username and Password.
